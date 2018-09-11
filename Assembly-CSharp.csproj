@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Destination.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/physics_marbleGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
