@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{37EAD9A9-39CE-AAAE-F88D-1E87A43B5269}</ProjectGuid>
+    <ProjectGuid>{DFDB40E5-004D-2E54-F96A-B565BDB4FE35}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,16 +64,16 @@
     <Compile Include="Assets\Scripts\Destination.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/physics_marbleGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/01_marbleGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/physics_marbleGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/01_marbleGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/physics_marbleGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/01_marbleGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/physics_marbleGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/01_marbleGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -259,7 +259,7 @@
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/physics_marbleGame/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>/Users/jamie/Documents/2018Fall/GAME3002_PhysicsEngines/03_classWork/01_marbleGame/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
