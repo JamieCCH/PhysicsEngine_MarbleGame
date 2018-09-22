@@ -35,4 +35,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+<<<<<<< HEAD
 */.DS_Store
+=======
+*.DS_Store
+>>>>>>> 70959dd4b6640f01bd3e8c17ad723e6e652bb033
